@@ -4,8 +4,11 @@
 
 先看原来网易云音乐引导界面的效果
 
+<img src="https://github.com/OrandNotCN/NeteaseMusicGuide/blob/master/gif/1.gif" width="30%" height="30%"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+反编译后剥离的效果
+
+<img src="https://github.com/OrandNotCN/NeteaseMusicGuide/blob/master/gif/2.gif" width="30%" height="30%"/>
 
 ### Markdown
 
