@@ -10,9 +10,3 @@
 
 <img src="https://github.com/OrandNotCN/NeteaseMusicGuide/blob/master/gif/2.gif" width="30%" height="30%"/>
 
-### Markdown
-
-
-### Jekyll Themes
-
-### Support or Contact
