@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white">
+
+    <View
+        android:id="@+id/bg"
+        android:layout_width="fill_parent"
+        android:layout_height="395.0dip"
+        android:layout_alignParentTop="true"
+        android:background="@color/g6" />
+
+    <FrameLayout
+        android:id="@+id/fl_main"
+        android:layout_width="277.0dip"
+        android:layout_height="416.0dip"
+        android:layout_centerInParent="true"
+        android:background="@drawable/af2"
+        android:padding="5.0dip"
+        android:translationY="-4.0dip">
+
+        <ImageView
+            android:id="@+id/iv_big"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/iv_small"
+            android:layout_width="35.0dip"
+            android:layout_height="35.0dip"
+            android:scaleType="centerCrop"
+            android:src="@drawable/aet" />
+
+        <ImageView
+            android:id="@+id/iv_mid"
+            android:layout_width="79.0dip"
+            android:layout_height="79.0dip"
+            android:scaleType="centerCrop"
+            android:src="@drawable/aes" />
+    </FrameLayout>
+
+    <com.orandnot.neteasemusicguide.IntroduceTitlesView
+        android:id="@+id/title_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/fl_main"
+        android:layout_marginBottom="10.0dip" />
+</RelativeLayout>

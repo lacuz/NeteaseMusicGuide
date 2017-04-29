@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_68dba288b85b7ee220fed052a8be3875337d9563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_b487cad95b0c636bb6a1d7ef586a65e65f86f891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e16626f978681407bee5f5d75a9657cc8a3e6a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_6d7fde3ff707ee78e2cafbd7187f12946ce1ae12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\ASProject\NeteaseMusicGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_95c8115b0d89cba85d5be7501c3bb71596d78d73.jar" />
+    </item>
+
+</items>

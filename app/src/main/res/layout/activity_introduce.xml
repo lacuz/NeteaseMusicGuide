@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffffff">
+
+    <com.orandnot.neteasemusicguide.IntroduceViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:overScrollMode="never"
+        android:background="#ecec"/>
+
+    <LinearLayout
+        android:id="@+id/lly_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="39.0dip"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_login"
+            android:layout_width="135.0dip"
+            android:layout_height="40.0dip"
+            android:layout_marginRight="26.0dip"
+            android:gravity="center"
+            android:text="@string/a4n"
+            android:textColor="#ffffffff"
+            android:textSize="13.0sp"
+            android:background="@drawable/tv_login_sel"/>
+
+        <TextView
+            android:id="@+id/tv_try"
+            android:layout_width="135.0dip"
+            android:layout_height="40.0dip"
+            android:gravity="center"
+            android:text="@string/b35"
+            android:textColor="@drawable/tv_try_color_sel"
+            android:background="@drawable/tv_try_sel"
+            android:textSize="13.0sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lly_dot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/lly_btn"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" />
+
+</RelativeLayout>
