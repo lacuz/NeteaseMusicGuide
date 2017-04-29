@@ -1,6 +1,9 @@
 ## 网易云音乐引导页
 
-You can use the [editor on GitHub](https://github.com/OrandNotCN/NeteaseMusicGuide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+花了几天反编译了网易云音乐apk，学到了很多东西，下面单独把引导界面剥离出来.
+
+先看原来网易云音乐引导界面的效果
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
