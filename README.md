@@ -32,4 +32,4 @@
         ivSmall.getLayoutParams().width = (int) (105.0F * bigHeight);
         ivSmall.getLayoutParams().height = (int) (105.0F * bigHeight);
         
-```java
+```
