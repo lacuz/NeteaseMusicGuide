@@ -17,6 +17,7 @@
 一个是适配性方面。UI配合不错，看得出是有算过的。1920像素密度为准，1248*831为比例画中间视图。这种挖空图片某一部分做动画，好像只能这样做适配了。
 
 '''java
+
         float bigHeight = 1F * getResources().getDisplayMetrics().heightPixels / 1920.0F;
         marginsLeft = (int) (41.0F * bigHeight);
 
